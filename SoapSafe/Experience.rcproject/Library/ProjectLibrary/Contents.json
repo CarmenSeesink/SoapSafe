@@ -1,0 +1,37 @@
+[
+  {
+    "libraryIdentifier" : "324e26c001844ec18ceac6163dc1e43c",
+    "format" : "image",
+    "displayName" : "IMG_8009.jpeg"
+  },
+  {
+    "libraryIdentifier" : "1125a73757aed82a3fcac85037164a09",
+    "format" : "model",
+    "displayName" : "lungs.usdz"
+  },
+  {
+    "libraryIdentifier" : "af76f93b71dcc79fed02f32eea6c8563",
+    "format" : "model",
+    "displayName" : "bubblefun3.usdz"
+  },
+  {
+    "libraryIdentifier" : "e1eaae22d833d2a7073fe4e78f5523f6",
+    "format" : "image",
+    "displayName" : "french.png"
+  },
+  {
+    "libraryIdentifier" : "9abf399e504ca5072949f9b2d0b08404",
+    "format" : "image",
+    "displayName" : "statistics.png"
+  },
+  {
+    "libraryIdentifier" : "05d8e70a7217498df9f9d8449cd20fa8",
+    "format" : "image",
+    "displayName" : "palm.png"
+  },
+  {
+    "libraryIdentifier" : "21309599b34cfcb33b1bd29a7745dedb",
+    "format" : "model",
+    "displayName" : "Hands5.usdz"
+  }
+]
