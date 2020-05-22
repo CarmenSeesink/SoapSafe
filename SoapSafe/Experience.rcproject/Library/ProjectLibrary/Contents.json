@@ -33,5 +33,15 @@
     "libraryIdentifier" : "21309599b34cfcb33b1bd29a7745dedb",
     "format" : "model",
     "displayName" : "Hands5.usdz"
+  },
+  {
+    "libraryIdentifier" : "9931cede1923cfe185da44ccb6448a29",
+    "format" : "model",
+    "displayName" : "surgeon.usdz"
+  },
+  {
+    "libraryIdentifier" : "b2875544f176f2cd3fd8ec597c6d908b",
+    "format" : "model",
+    "displayName" : "earth20.usdz"
   }
 ]
