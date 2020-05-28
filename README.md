@@ -25,12 +25,9 @@
   * [How to install](#how-to-install)
 * [Unit Testing](#unit-testing)
 * [Features and Functionality](#features-and-functionality)
-   * [Plant Coral](#plant-coral)
-   * [Feed](#multiplayer)
-   * [Remove Plastic Waste](#sentences-and-score)
-   * [Name your Turtle](#name-your-turtle)
-   * [Games](#games)
+   * [Interact](#interact)
    * [Manual](#manual)
+   * [Timer](#timer)
 * [Contributing](#contributing)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
@@ -49,7 +46,7 @@ SoapSafe is a Augmented Reality application which aims to inform users of the be
 ### Built With
 
 * [Xcode](https://developer.apple.com/xcode/)
-* [Reality Composer] (https://developer.apple.com/augmented-reality/reality-composer/)
+* [Reality Composer](https://developer.apple.com/augmented-reality/reality-composer/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -113,7 +110,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [How To Create AR Experiences](hhttps://medium.com/augmentop/how-to-prototype-ar-experiences-in-1-hour-using-reality-composer-803af070c7eb)
+* [How To Create AR Experiences](https://medium.com/augmentop/how-to-prototype-ar-experiences-in-1-hour-using-reality-composer-803af070c7eb)
 * [Reality Composer](https://developer.apple.com/augmented-reality/reality-composer/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
