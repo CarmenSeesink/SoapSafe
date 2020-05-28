@@ -13,10 +13,13 @@ class ViewController: UIViewController {
     
     @IBOutlet var arView: ARView!
     @IBOutlet weak var textPanel: UIVisualEffectView!
-    @IBOutlet weak var headingLabel: UILabel!
-    @IBOutlet weak var rotateButton: UIButton!
+    @IBOutlet weak var nextDescription: UILabel!
     @IBOutlet weak var nextLabel: UILabel!
-    
+    @IBOutlet weak var rotateDescription: UILabel!
+    @IBOutlet weak var rotateLabel: UILabel!
+    @IBOutlet weak var rotateButton: UIButton!
+    @IBOutlet weak var mainLogo: UIImageView!
+    @IBOutlet weak var arrowIcon: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -42,6 +45,10 @@ class ViewController: UIViewController {
         
         textPanel.isHidden = false
         nextLabel.isHidden = true
+        nextDescription.isHidden = true
+        arrowIcon.isHidden = true
+        rotateLabel.isHidden = false
+        rotateDescription.isHidden = false
         rotateButton.isHidden = false
     }
     
@@ -54,13 +61,17 @@ class ViewController: UIViewController {
         
         textPanel.isHidden = false
         nextLabel.isHidden = false
+        nextDescription.isHidden = false
+        arrowIcon.isHidden = false
         rotateButton.isHidden = true
+        rotateDescription.isHidden = true
+        rotateLabel.isHidden = true
     }
     
     //MARK Custom Trigger
     @IBAction func onRotateTapped(_ sender: Any) {
         if let sceneAnchor = arView.scene.anchors[0] as? Experience.Main {
-            sceneAnchor.notifications.rotateLung.post()
-        }
+                  sceneAnchor.notifications.rotateLung.post()
+              }
     }
 }
