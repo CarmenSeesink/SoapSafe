@@ -9107,85 +9107,6 @@
                                     {
                                       "configurationBox" : {
                                         "configuration" : {
-                                          "animationStyle" : "basic",
-                                          "duration" : 10,
-                                          "emphasisAnimationType" : "jiggle",
-                                          "iterations" : 1,
-                                          "target" : [
-                                            "8A485B3C-A228-4F34-B618-D9D2FBDAFE58"
-                                          ]
-                                        },
-                                        "name" : {
-                                          "type" : "emphasis"
-                                        }
-                                      },
-                                      "identifier" : "DB9C150A-B445-4BAA-AA21-2FD250EA12ED",
-                                      "isEnabled" : true
-                                    }
-                                  ],
-                                  "__version" : 1
-                                }
-                              ],
-                              "identifier" : "C8EFB269-7AD3-4ECC-9DAC-743E012B956C",
-                              "isEnabled" : true
-                            }
-                          ],
-                          "__version" : 1
-                        }
-                      ],
-                      "color" : [
-                        0.49019607901573181,
-                        0.7450980544090271,
-                        0.94901961088180542,
-                        1
-                      ],
-                      "identifier" : "68F00436-BFBA-493A-97EE-780498EA2E4D",
-                      "isEnabled" : true,
-                      "isLooping" : false,
-                      "isModal" : false,
-                      "name" : "Time Jiggle",
-                      "triggers" : [
-                        {
-                          "__content" : [
-                            {
-                              "configurationBox" : {
-                                "configuration" : {
-
-                                },
-                                "name" : "start"
-                              },
-                              "identifier" : "CFF936B3-9C77-4FA7-82E4-F53E0899837B",
-                              "isEnabled" : true
-                            }
-                          ],
-                          "__version" : 1
-                        }
-                      ]
-                    }
-                  ],
-                  "__version" : 3
-                },
-                {
-                  "__content" : [
-                    {
-                      "accessibility" : {
-                        "__content" : [
-                          {
-                            "isEnabled" : false
-                          }
-                        ],
-                        "__version" : 1
-                      },
-                      "actionGroups" : [
-                        {
-                          "__content" : [
-                            {
-                              "configurations" : [
-                                {
-                                  "__content" : [
-                                    {
-                                      "configurationBox" : {
-                                        "configuration" : {
                                           "angularCoefficient" : 1,
                                           "animationStyle" : "basic",
                                           "buildInAnimationType" : "move in from above",
@@ -12699,11 +12620,11 @@
                   0,
                   0.66445785760879517,
                   0.7468951940536499,
-                  -0.025363964959979057,
+                  -0.025363966822624207,
                   0,
                   -0.74635100364685059,
                   0.66494232416152954,
-                  0.028490409255027771,
+                  0.02849041111767292,
                   0,
                   -0.21265788376331329,
                   0.2434757798910141,
